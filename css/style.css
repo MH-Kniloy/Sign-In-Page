@@ -1,0 +1,20 @@
+h1 {
+   text-align: center;
+
+}
+h2 {
+  text-align: center;
+}
+div {
+  margin-left: 40%;
+  margin-right: 40%;
+  
+}
+.signUp{
+  margin-left: 40%;
+  margin-right: 40%;
+}
+@media (max-width:500px) { div { margin: 0%;}  
+}
+@media (max-width:500px) { .signUp { margin: 0%; margin-top: 6px;}
+}
